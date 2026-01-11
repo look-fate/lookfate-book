@@ -25,7 +25,7 @@ export default defineConfig({
   metaChunk: true,
 
   // 站点地图
-  sitemap: { hostname: 'https://book.letfate.com' },
+  sitemap: { hostname: 'https://book.lookfate.com' },
 
   // vue配置
   vue: {
@@ -68,7 +68,7 @@ export default defineConfig({
 
     // GitHub编辑页面
     editLink: {
-      pattern: 'https://github.com/let-fate/lybd/edit/main/content/:path',
+      pattern: 'https://github.com/look-fate/lybd/edit/main/content/:path',
       text: '为此页提供修改建议'
     },
 
