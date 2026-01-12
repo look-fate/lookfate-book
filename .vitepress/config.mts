@@ -68,7 +68,7 @@ export default defineConfig({
 
     // GitHub编辑页面
     editLink: {
-      pattern: 'https://github.com/look-fate/lybd/edit/main/content/:path',
+      pattern: 'https://github.com/look-fate/lookfate-book/edit/main/content/:path',
       text: '为此页提供修改建议'
     },
 

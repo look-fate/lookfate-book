@@ -10,7 +10,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   },
   {
     icon: 'github',
-    link: 'https://github.com/look-fate/lybd',
+    link: 'https://github.com/look-fate/lookfate-book',
     ariaLabel: 'Github'
   }
 ]
