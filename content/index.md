@@ -7,7 +7,7 @@ hero:
   text: 山医命相卜
   tagline: 中华传统五术书籍传世经典著作
   image:
-    src: https://doc.theojs.cn/index/home.webp
+    src: /favicon.svg
     alt: home
     fetchpriority: high
     width: 320
