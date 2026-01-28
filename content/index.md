@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 灵钥宝典 - LookFate
+title: LookFate宝典
 titleTemplate: 中华传统五术书籍传世经典著作
 hero:
-  name: 灵钥宝典 - LookFate
+  name: LookFate宝典
   text: 山医命相卜
   tagline: 中华传统五术书籍传世经典著作
   image:

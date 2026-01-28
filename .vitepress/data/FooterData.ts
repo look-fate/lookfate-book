@@ -9,7 +9,7 @@ export const Footer_Data: FooterData = {
   //     title: 'GitHub Source',
   //     links: [
   //       { name: 'Theo-Docs', link: 'https://github.com/s-theo/Theo-Docs' },
-  //       { name: '灵钥宝典', link: 'https://github.com/s-theo/xx.theojs.cn' },
+  //       { name: 'LookFate宝典', link: 'https://github.com/s-theo/xx.theojs.cn' },
   //     ]
   //   },
   //   {

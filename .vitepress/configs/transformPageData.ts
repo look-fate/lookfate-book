@@ -12,7 +12,7 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
   const DynamicUrl = `${baseUrl}/${pageData.relativePath}`.replace(/index\.md$/, '').replace(/\.md$/, '')
 
   // title
-  const title = pageData.frontmatter?.hero?.name || pageData.title || '灵钥宝典'
+  const title = pageData.frontmatter?.hero?.name || pageData.title || 'LookFate宝典'
 
   // description
   const description = pageData.frontmatter?.hero?.tagline || pageData.description || '中华传统五术书籍传世经典著作'

@@ -11,7 +11,7 @@ export const head: HeadConfig[] = [
   // 通用元信息
   ['meta', { name: 'theme-color', content: '#5f67ee' }],
   ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: '灵钥宝典' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'LookFate宝典' }],
   ['meta', { name: 'author', content: 'Theo' }],
   ['meta', { name: 'copyright', content: 'Theo' }],
   ['meta', { name: 'format-detection', content: 'telephone=no' }],
@@ -20,7 +20,7 @@ export const head: HeadConfig[] = [
   // Open Graph 元信息
   ['meta', { property: 'og:type', content: 'website' }],
   ['meta', { property: 'og:locale', content: 'zh-Hans' }],
-  ['meta', { property: 'og:site_name', content: '灵钥宝典' }],
+  ['meta', { property: 'og:site_name', content: 'LookFate宝典' }],
 
   // Twitter 卡片信息
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],

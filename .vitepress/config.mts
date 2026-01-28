@@ -4,7 +4,7 @@ import { head, nav, search, sidebar, socialLinks, transformPageData } from './co
 
 export default defineConfig({
   // 站点名称
-  title: '灵钥宝典',
+  title: 'LookFate宝典',
 
   // 站点语言
   lang: 'zh-Hans',
@@ -13,7 +13,7 @@ export default defineConfig({
   head,
 
   // 站点介绍
-  description: '灵钥宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作',
+  description: 'LookFate宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作',
 
   // 动态生成 meta 标签和 JSON-LD 数据
   transformPageData,
