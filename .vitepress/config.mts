@@ -53,7 +53,7 @@ export default defineConfig({
   themeConfig: {
     // logo
     logo: {
-      src: 'https://i.theojs.cn/logo/avatar-mini.webp',
+      src: '/favicon.svg',
       width: 24,
       height: 24,
       alt: 'avatar',

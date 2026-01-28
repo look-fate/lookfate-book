@@ -26,6 +26,5 @@ export const head: HeadConfig[] = [
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
 
   // SEO 相关设置
-  ['meta', { name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }],
-  ['meta', { name: 'google-site-verification', content: 'bOXLe1lrqePxxyksBSbMgqbELMkTX9Q_FkyEuVwTobI' }]
+  ['meta', { name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }]
 ]
